@@ -1,0 +1,121 @@
+{
+ "layout": "two_tables",
+ "seed": 70004,
+ "tables": [
+  {
+   "header": [
+    "Description",
+    "Qty",
+    "Unit price",
+    "Amount"
+   ],
+   "rows": [
+    [
+     "Cleaning catering",
+     254,
+     13994.96,
+     9642.95
+    ],
+    [
+     "Licence insurance",
+     215,
+     853.47,
+     1565.25
+    ],
+    [
+     "Utilities supplies",
+     118,
+     9048.12,
+     21864.76
+    ],
+    [
+     "Repairs",
+     258,
+     4010.44,
+     22760.52
+    ],
+    [
+     "Repairs",
+     241,
+     492.55,
+     -11214.41
+    ],
+    [
+     "Marketing freight",
+     277,
+     9122.25,
+     6531.65
+    ],
+    [
+     "Hosting repairs",
+     84,
+     -21224.03,
+     10074.95
+    ],
+    [
+     "Total",
+     1447,
+     16297.76,
+     61225.67
+    ]
+   ],
+   "pages": [
+    1
+   ],
+   "planted": []
+  },
+  {
+   "header": [
+    "Item",
+    "Units",
+    "Revenue"
+   ],
+   "rows": [
+    [
+     "Utilities consulting",
+     383,
+     21078.31
+    ],
+    [
+     "Repairs",
+     265,
+     6641.45
+    ],
+    [
+     "Consulting postage",
+     42,
+     22489.65
+    ],
+    [
+     "Utilities",
+     93,
+     2223.64
+    ],
+    [
+     "Printing training",
+     131,
+     -9288.93
+    ],
+    [
+     "Repairs consulting",
+     20,
+     16399.36
+    ],
+    [
+     "Postage",
+     20,
+     956.76
+    ],
+    [
+     "Cleaning",
+     129,
+     4686.36
+    ]
+   ],
+   "pages": [
+    1
+   ],
+   "planted": []
+  }
+ ]
+}

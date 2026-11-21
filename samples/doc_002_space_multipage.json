@@ -1,0 +1,437 @@
+{
+ "layout": "space_multipage",
+ "seed": 70002,
+ "tables": [
+  {
+   "header": [
+    "Item",
+    "Units",
+    "Revenue"
+   ],
+   "rows": [
+    [
+     "Insurance",
+     206,
+     22113.41
+    ],
+    [
+     "Consulting catering",
+     88,
+     21182.79
+    ],
+    [
+     "Marketing",
+     147,
+     5055.09
+    ],
+    [
+     "Postage",
+     10,
+     17004.66
+    ],
+    [
+     "Utilities consulting",
+     366,
+     20759.28
+    ],
+    [
+     "Hosting training",
+     332,
+     24234.81
+    ],
+    [
+     "Hosting",
+     123,
+     17201.08
+    ],
+    [
+     "Insurance",
+     56,
+     831.81
+    ],
+    [
+     "Hosting",
+     106,
+     15363.07
+    ],
+    [
+     "Training",
+     376,
+     3547.71
+    ],
+    [
+     "Utilities",
+     341,
+     12883.45
+    ],
+    [
+     "Cleaning catering",
+     173,
+     14034.02
+    ],
+    [
+     "Catering postage",
+     113,
+     10722.95
+    ],
+    [
+     "Freight",
+     7,
+     5708.55
+    ],
+    [
+     "Postage catering",
+     57,
+     9160.73
+    ],
+    [
+     "Repairs",
+     121,
+     -16848.57
+    ],
+    [
+     "Insurance consulting",
+     68,
+     9356.42
+    ],
+    [
+     "Utilities",
+     332,
+     19816.33
+    ],
+    [
+     "Catering",
+     81,
+     -4073.19
+    ],
+    [
+     "Travel cleaning",
+     198,
+     21664.59
+    ],
+    [
+     "Freight",
+     83,
+     -5636.29
+    ],
+    [
+     "Insurance",
+     358,
+     22498.06
+    ],
+    [
+     "Marketing",
+     28,
+     8804.5
+    ],
+    [
+     "Cleaning",
+     337,
+     -16652.26
+    ],
+    [
+     "Postage insurance",
+     386,
+     11287.43
+    ],
+    [
+     "Freight office",
+     330,
+     11680.8
+    ],
+    [
+     "Hosting insurance",
+     290,
+     13052.75
+    ],
+    [
+     "Office",
+     65,
+     19309.84
+    ],
+    [
+     "Repairs",
+     271,
+     -14435.37
+    ],
+    [
+     "Supplies",
+     261,
+     -15463.91
+    ],
+    [
+     "Supplies repairs",
+     133,
+     17669.06
+    ],
+    [
+     "Cleaning consulting",
+     120,
+     5941.28
+    ],
+    [
+     "Insurance",
+     215,
+     2793.03
+    ],
+    [
+     "Office freight",
+     144,
+     351.0
+    ],
+    [
+     "Postage",
+     211,
+     15705.43
+    ],
+    [
+     "Printing",
+     232,
+     20772.9
+    ],
+    [
+     "Freight travel",
+     98,
+     11900.91
+    ],
+    [
+     "Utilities",
+     102,
+     4040.08
+    ],
+    [
+     "Repairs insurance",
+     87,
+     -9899.68
+    ],
+    [
+     "Postage hosting",
+     354,
+     12611.76
+    ],
+    [
+     "Consulting office",
+     399,
+     -6930.4
+    ],
+    [
+     "Office licence",
+     214,
+     22960.29
+    ],
+    [
+     "Office hosting",
+     224,
+     21319.5
+    ],
+    [
+     "Postage",
+     235,
+     1401.69
+    ],
+    [
+     "Consulting training",
+     88,
+     15149.8
+    ],
+    [
+     "Licence",
+     92,
+     13975.85
+    ],
+    [
+     "Licence office",
+     154,
+     17068.85
+    ],
+    [
+     "Printing insurance",
+     124,
+     15956.76
+    ],
+    [
+     "Catering",
+     77,
+     9353.52
+    ],
+    [
+     "Repairs hosting",
+     138,
+     24595.61
+    ],
+    [
+     "Cleaning licence",
+     39,
+     18081.03
+    ],
+    [
+     "Repairs licence",
+     329,
+     7715.89
+    ],
+    [
+     "Travel utilities",
+     43,
+     19739.41
+    ],
+    [
+     "Utilities",
+     280,
+     24996.82
+    ],
+    [
+     "Repairs",
+     114,
+     4830.42
+    ],
+    [
+     "Hosting travel",
+     303,
+     11204.33
+    ],
+    [
+     "Travel freight",
+     173,
+     9202.92
+    ],
+    [
+     "Repairs freight",
+     296,
+     10250.17
+    ],
+    [
+     "Travel insurance",
+     124,
+     3131.26
+    ],
+    [
+     "Consulting repairs",
+     8,
+     2417.48
+    ],
+    [
+     "Cleaning office",
+     23,
+     13509.68
+    ],
+    [
+     "Freight",
+     136,
+     5202.79
+    ],
+    [
+     "Consulting",
+     61,
+     22443.33
+    ],
+    [
+     "Licence cleaning",
+     63,
+     15043.07
+    ],
+    [
+     "Repairs freight",
+     400,
+     444.11
+    ],
+    [
+     "Supplies",
+     135,
+     111.14
+    ],
+    [
+     "Printing postage",
+     241,
+     1163.34
+    ],
+    [
+     "Repairs freight",
+     353,
+     23953.92
+    ],
+    [
+     "Printing",
+     247,
+     20473.03
+    ],
+    [
+     "Consulting freight",
+     110,
+     12693.53
+    ],
+    [
+     "Repairs",
+     99,
+     -15853.87
+    ],
+    [
+     "Postage",
+     162,
+     16247.64
+    ],
+    [
+     "Utilities",
+     332,
+     18329.08
+    ],
+    [
+     "Marketing",
+     111,
+     14638.3
+    ],
+    [
+     "Repairs insurance",
+     87,
+     12446.23
+    ],
+    [
+     "Hosting training",
+     240,
+     16607.95
+    ],
+    [
+     "Consulting utilities",
+     215,
+     5377.64
+    ],
+    [
+     "Licence",
+     199,
+     14648.9
+    ],
+    [
+     "Office",
+     58,
+     11037.97
+    ],
+    [
+     "Utilities office",
+     226,
+     1890.11
+    ],
+    [
+     "Supplies postage",
+     366,
+     -9141.98
+    ],
+    [
+     "Travel",
+     312,
+     22124.76
+    ],
+    [
+     "Total",
+     15036,
+     816196.68
+    ]
+   ],
+   "pages": [
+    1,
+    2
+   ],
+   "planted": [
+    "wrong_total"
+   ]
+  }
+ ]
+}
