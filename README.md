@@ -4,6 +4,8 @@
 
 Pulls tables out of digital PDFs (statements, reports, price lists, invoices) into an Excel workbook with one sheet per table, or into CSV files. It finds the header row, joins a table that runs across pages into one, and turns printed numbers like `$1,234.50` and `(56.00)` into real numbers. Every table is checked, and any table that fails a check is listed on a Review sheet with the reason, so you know which ones to look at before you trust them.
 
+![A PDF statement page on the left and the stitched Excel table on the right](docs/preview.png)
+
 ## Measured result
 
 Tables were drawn into PDFs from a seed, so every cell is known, and the extracted cells were compared with the truth. The table below is written by the benchmark script from a real run, not typed by hand. Method and limits: [BENCHMARK.md](BENCHMARK.md).
