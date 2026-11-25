@@ -1,0 +1,7 @@
+{
+  "title": "PDF Table Extractor: Tables from PDFs to Excel and CSV | Chase Builds",
+  "description": "Pull tables from digital PDFs into clean Excel and CSV, with header detection, multi-page table stitching and a total check on every table. In your browser.",
+  "url": "https://chasebuilds.github.io/pdf-table-extractor/",
+  "image": "docs/demo.png",
+  "repo": "pdf-table-extractor"
+}
