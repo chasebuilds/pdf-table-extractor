@@ -113,3 +113,11 @@ The sample PDFs were made with `python -m benchmark.generate --out samples --cou
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## More from Chase Builds
+
+- **[excel-formula-auditor](https://github.com/chasebuilds/excel-formula-auditor)**: Finds broken formulas, hard-coded numbers and dead links before they cost you. ([live demo](https://chasebuilds.github.io/excel-formula-auditor/))
+- **[spreadsheet-diff](https://github.com/chasebuilds/spreadsheet-diff)**: Compare two versions of a spreadsheet, cell by cell. ([live demo](https://chasebuilds.github.io/spreadsheet-diff/))
+- **[data-merger](https://github.com/chasebuilds/data-merger)**: Combines customer lists with different columns into one record per customer. 0 false merges on 28,512 rows. ([live demo](https://chasebuilds.github.io/data-merger/))
+
+[All projects, sorted by industry](https://github.com/chasebuilds) · [chasebuilds.github.io](https://chasebuilds.github.io)
