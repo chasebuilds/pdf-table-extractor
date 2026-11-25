@@ -13,3 +13,4 @@ htmlcov/
 benchmark/data/
 pdftables-out/
 ~$*.xlsx
+_site/

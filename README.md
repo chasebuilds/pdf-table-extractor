@@ -2,9 +2,11 @@
 
 [![ci](https://github.com/chasebuilds/pdf-table-extractor/actions/workflows/ci.yml/badge.svg)](https://github.com/chasebuilds/pdf-table-extractor/actions/workflows/ci.yml) ![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue) [![MIT license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-Pulls tables out of digital PDFs (statements, reports, price lists, invoices) into an Excel workbook with one sheet per table, or into CSV files. It finds the header row, joins a table that runs across pages into one, and turns printed numbers like `$1,234.50` and `(56.00)` into real numbers. Every table is checked, and any table that fails a check is listed on a Review sheet with the reason, so you know which ones to look at before you trust them.
+**[Live demo: try it in your browser](https://chasebuilds.github.io/pdf-table-extractor/)**. Drop in your own file or run the bundled sample with one click. The real package runs in the page with Pyodide, so files never leave your browser.
 
-![A PDF statement page on the left and the stitched Excel table on the right](docs/preview.png)
+[![The live demo after running the sample: the tool's summary, result tabs and output table](docs/demo.png)](https://chasebuilds.github.io/pdf-table-extractor/)
+
+Pulls tables out of digital PDFs (statements, reports, price lists, invoices) into an Excel workbook with one sheet per table, or into CSV files. It finds the header row, joins a table that runs across pages into one, and turns printed numbers like `$1,234.50` and `(56.00)` into real numbers. Every table is checked, and any table that fails a check is listed on a Review sheet with the reason, so you know which ones to look at before you trust them.
 
 ## Measured result
 
@@ -25,6 +27,8 @@ Tables were drawn into PDFs from a seed, so every cell is known, and the extract
 <!-- benchmark:end -->
 
 The one missed stitch and the one missed wrong total are the same table: its last page held only the repeated header and the Total row, which is too short to be read as a table, so the Total row was lost. [LIMITATIONS.md](LIMITATIONS.md) has this and the other limits.
+
+![A PDF statement page on the left and the stitched Excel table on the right](docs/preview.png)
 
 ## Quick start
 
